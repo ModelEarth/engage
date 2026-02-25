@@ -1,4 +1,4 @@
-# Workdak/Accenture Feedback
+# Workdak/Accenture Resume Template
 
 ## Application System Fixes for Workday
 
@@ -7,10 +7,9 @@ Primary Issue: The standard Harvard resume template (used by the majority of col
 ### QUICK FIX
 
 Use a simple .txt file with minimal fields.
-Example: https://model.earth/cv/LorenHeyns/resume/LorenKevinHeyns-Workday.txt
+Example: [workday.txt](https://model.earth/cv/LorenHeyns/resume/LorenKevinHeyns-workday.txt)
 
-Additional tips for Workday Resume Parsing (reddit):
-https://www.reddit.com/r/recruitinghell/comments/1kt16ib/tips_for_workday_resume_parsing/
+[Additional tips for Workday Resume Parsing](https://www.reddit.com/r/recruitinghell/comments/1kt16ib/tips_for_workday_resume_parsing/) (reddit):
 
 
 ### OVERVIEW
