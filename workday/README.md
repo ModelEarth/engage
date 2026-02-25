@@ -1,8 +1,10 @@
-Accenture Feedback - Application System Issues to provide to Workday
+# Workdak/Accenture Feedback
+
+## Application System Fixes for Workday
 
 Primary Issue: The standard Harvard resume template (used by the majority of college grads) is not parsed effectively by the myworkdayjobs.com application system.
 
-QUICK FIX
+### QUICK FIX
 
 Use a simple .txt file with minimal fields.
 Example: https://model.earth/cv/LorenHeyns/resume/LorenKevinHeyns-Workday.txt
@@ -11,7 +13,7 @@ Additional tips for Workday Resume Parsing (reddit):
 https://www.reddit.com/r/recruitinghell/comments/1kt16ib/tips_for_workday_resume_parsing/
 
 
-UPDATES FOR WORKDAY
+### OVERVIEW
 
 Provide a link to sample templates that the Accenture/Workday site will properly parse.
 Where the Workday site states supported formats, add a link on each to the template:
@@ -25,7 +27,7 @@ To upload a fresh resume for parsing, you can delete the application for a speci
 
 Avoid periods in organization names (no domains)
 
-PROGRAMMING SOLUTION
+### PROGRAMMING
 
 1. When a resume is deleted and reattached, allow the user to return to the parsing process.
 
@@ -37,7 +39,7 @@ PROGRAMMING SOLUTION
 
 3. Provide a means for the applicant to delete their account so they can start with a clean resume upload.
 
-ADDITIONAL TO DOs
+### ADDITIONAL TO DOs
 
 4. "How Did You Hear About Us?" needs to include: "From my Employer"
 
