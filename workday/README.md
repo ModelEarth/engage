@@ -42,4 +42,8 @@ Workday could add links to sample templates that the Accenture/Workday site will
 
 6.) In the Resume/CV section on the My Experience tab, include: "Updating your resume here will not impact the populated fields."
 
-[Hire Loren Heyns to implement](../../cv/LorenHeyns/)
+<br>
+
+---
+
+Project input from [Loren Heyns](../../cv/LorenHeyns/)
