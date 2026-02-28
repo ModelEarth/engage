@@ -8,7 +8,7 @@ The standard Harvard resume template (used by the majority of college grads) is 
 
 ### WORK AROUNDS
 
-Use a simple .txt file with minimal fields. Example: [workday.txt](https://model.earth/cv/LorenHeyns/resume/LorenKevinHeyns-workday.txt)
+Use a simple .txt file with minimal fields. Example: [workday.txt](https://model.earth/cv/LorenHeyns/resume/LorenKevinHeyns-Workday.txt)
 
 [Additional tips on Workday Resume Parsing](https://www.reddit.com/r/recruitinghell/comments/1kt16ib/tips_for_workday_resume_parsing/) (reddit):
 
