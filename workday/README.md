@@ -46,4 +46,4 @@ Workday could add links to sample templates that the Accenture/Workday site will
 
 ---
 
-Project input from [Loren Heyns](../../cv/LorenHeyns/)
+Project input from [Loren Heyns](https://dreamstudio.com/loren)
