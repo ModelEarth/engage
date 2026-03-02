@@ -1,6 +1,6 @@
-# Workdak/Accenture
+For Workday/Accenture by [Loren Heyns](https://dreamstudio.com/loren)
 
-## Proposed Fixes for Workday Resume Parsing
+# Proposed Fixes for Workday Resume Parsing
 
 ### PRIMARY ISSUE
 
@@ -24,7 +24,8 @@ Workday could add links to sample templates that the Accenture/Workday site will
 
 <!-- Avoid periods in organization names (no domains) -->
 
-### PROGRAMMING
+
+### VIBE PROGRAMMING
 
 1.) When a resume is deleted and reattached, allow the user to return to the parsing process to apply the revisions.
 
@@ -34,16 +35,8 @@ Workday could add links to sample templates that the Accenture/Workday site will
 
 3.) Update the Workday system to retain state when backing up in the browser.
 
-### ADDITIONAL TO DOs
-
 4.) "How Did You Hear About Us?" needs to include: "From my Employer"
 
 5.) Allow the skills to be reordered by the applicant since the default parsing gives priority to less technical skills. 
 
 6.) In the Resume/CV section on the My Experience tab, include: "Updating your resume here will not impact the populated fields."
-
-<br>
-
----
-
-Project input from [Loren Heyns](https://dreamstudio.com/loren)
