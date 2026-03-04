@@ -40,3 +40,5 @@ Workday could add links to sample templates that the Accenture/Workday site will
 5.) Allow the skills to be reordered by the applicant since the default parsing gives priority to less technical skills. 
 
 6.) In the Resume/CV section on the My Experience tab, include: "Updating your resume here will not impact the populated fields."
+
+7.) In the "Application Questions" section, proveid a "Use Prior Input" checkbox and populate from the browser cache.
